@@ -9,6 +9,13 @@
             "url": "https://github.com/circuitalmynds/music_u3/blob/main/videos/Pueblo Blanco [Gvv4HTLrdzw].mp4?raw=true"
         },
         {
+            "id": "OOBugkedB_Y",
+            "name": "Vojtěch Jírovec (Gyrowetz) Piano concert B dur [OOBugkedB_Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/u3/videos/Vojtěch Jírovec (Gyrowetz) Piano concert B dur [OOBugkedB_Y].mp4",
+            "size": 31.927386,
+            "url": "https://github.com/circuitalmynds/music_u3/blob/main/videos/Vojtěch Jírovec (Gyrowetz) Piano concert B dur [OOBugkedB_Y].mp4?raw=true"
+        },
+        {
             "id": "OGWW-anKCqI",
             "name": "Liszt： Kling leise, mein Lied S.301 [OGWW-anKCqI].mp4",
             "path": "/home/alanmatzumiya/Videos/container/u3/videos/Liszt： Kling leise, mein Lied S.301 [OGWW-anKCqI].mp4",
@@ -79,11 +86,25 @@
             "url": "https://github.com/circuitalmynds/music_u3/blob/main/videos/My Morning Jacket    Phone Went West    Red Rocks August 4, 2012 [M2xZAWgJ8rE].mp4?raw=true"
         },
         {
+            "id": "p-1QNI6goVk",
+            "name": "Cancion Ultima [p-1QNI6goVk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/u3/videos/Cancion Ultima [p-1QNI6goVk].mp4",
+            "size": 6.1982099999999996,
+            "url": "https://github.com/circuitalmynds/music_u3/blob/main/videos/Cancion Ultima [p-1QNI6goVk].mp4?raw=true"
+        },
+        {
             "id": "1CGUa6-Ltks",
             "name": "Carl Czerny - Variations on Bellini's La Sonnambula Op.333, no.2. Vivien Harvey Slater, piano [1CGUa6-Ltks].mp4",
             "path": "/home/alanmatzumiya/Videos/container/u3/videos/Carl Czerny - Variations on Bellini's La Sonnambula Op.333, no.2. Vivien Harvey Slater, piano [1CGUa6-Ltks].mp4",
             "size": 59.439761,
             "url": "https://github.com/circuitalmynds/music_u3/blob/main/videos/Carl Czerny - Variations on Bellini's La Sonnambula Op.333, no.2. Vivien Harvey Slater, piano [1CGUa6-Ltks].mp4?raw=true"
+        },
+        {
+            "id": "_sbIotUVdzg",
+            "name": "Mademoiselle in New Rochelle [_sbIotUVdzg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/u3/videos/Mademoiselle in New Rochelle [_sbIotUVdzg].mp4",
+            "size": 10.651525,
+            "url": "https://github.com/circuitalmynds/music_u3/blob/main/videos/Mademoiselle in New Rochelle [_sbIotUVdzg].mp4?raw=true"
         },
         {
             "id": "fiCX4w1BCVQ",
@@ -310,5 +331,5 @@
             "url": "https://github.com/circuitalmynds/music_u3/blob/main/videos/Liszt： S'il est un charmant gazon, S.284 [qkmRp4O46WQ].mp4?raw=true"
         }
     ],
-    "total_size": 896.4584639999998
+    "total_size": 945.2355849999999
 }
